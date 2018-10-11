@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSorter", "NameSorter\NameSorter.csproj", "{73F55C03-A176-4166-907F-776A7C9CE9E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameSorterProject", "NameSorter\NameSorterProject.csproj", "{73F55C03-A176-4166-907F-776A7C9CE9E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
